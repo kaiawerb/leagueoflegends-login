@@ -29,7 +29,7 @@ inputs.forEach((input) => input.addEventListener('input', handleChange))
 
 function backgroundRandom() {
     const wallpaper = document.querySelector('.wallpaper')
-    var totalWallpaper = 1;
+    var totalWallpaper = 3;
     var num = Math.ceil( Math.random() * totalWallpaper );
     wallpaper.style.backgroundImage = 'url(images/wallpaper-'+num+'.jpg)';
 }
