@@ -2,7 +2,7 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://www.leagueoflegends.com/static/logo-1200-04b3cefafba917c9c571f9244fd28a1e.png" alt="DisneyPlus - Logo" width="200"></a>
   <br>
-  DisneyPlus - Clone
+  League of Legends - Login Screen
   <br>
 </h1>
 
