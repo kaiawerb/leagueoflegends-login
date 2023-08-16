@@ -14,9 +14,6 @@
 
 <p>
 Esse projeto simples tem como objetivo recriar a tela de login do jogo <strong>League of Legends</strong>, criado pela empresa Riot Games. Começamos o desenvolvimento do design no Figma e, posteriormente, avançamos para a implementação utilizando <i>HTML, CSS e Javascript</i>.
-<br><br>
-O projeto de design foi desenvolvido no Figma com base em múltiplos de 4, e você pode conferir no link <a href="https://www.figma.com/file/tUAxTkKchAoyG8ojiGdnQX/Disney%2B---Clone?type=design&node-id=1%3A64&mode=design&t=3Celj0A3exglaljx-1" target="_blank">aqui</a>.
-</p>
 
 ## 🚀 Tecnologias
 
