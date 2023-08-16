@@ -8,7 +8,7 @@
 
 <h4 align="center"></h4>
 
-![screenshot](https://github.com/kaiawerb/DisneyPlus/assets/30848004/288f078c-bd5d-4192-a2e1-f8c0f1141827)
+![screenshot](https://github.com/kaiawerb/leagueoflegends-login/assets/30848004/9eb34ef3-ec94-4744-9efb-5b678f7de9f6)
 
 ## 💻 Sobre o projeto
 
